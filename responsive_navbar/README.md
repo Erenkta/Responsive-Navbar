@@ -1,8 +1,11 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Responsive Navbar 
 
-Currently, two official plugins are available:
+Bu projede html-css kullanarak ReactJS üzerinden nasıl Fully Responsive bir navbar hazırladım. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+![800px'den geniş ekranlar için olan görüntü](https://github.com/Erenkta/Responsive-Navbar/blob/main/readme_images/before.jpg?raw=true)
+![800px'den küçük olan ekranlar için oluşan menü butonu](https://github.com/Erenkta/Responsive-Navbar/blob/main/readme_images/after1.jpg)
+![Menü butonuna tıklanınca gelen sidebar](https://github.com/Erenkta/Responsive-Navbar/blob/main/readme_images/after2.jpg)
+
+    
